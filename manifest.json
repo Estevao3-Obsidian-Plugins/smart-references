@@ -1,0 +1,10 @@
+{
+  "id": "smart-references",
+  "name": "Smart References",
+  "version": "1.3.2",
+  "minAppVersion": "1.4.0",
+  "description": "Highlight text associated with internal block links when hovering over a reference.",
+  "author": "estevao3",
+  "authorUrl": "https://github.com/estevao3",
+  "isDesktopOnly": false
+}
